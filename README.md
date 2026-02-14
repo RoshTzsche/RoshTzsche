@@ -36,16 +36,6 @@ Mis lenguajes principales son **Python** (Ciencia de Datos/Bio) y **Bash** (Auto
 </div>
 
 ---
-### 📡 Telemetría
-
-<div align="center">
-
-[![RoshTzsche's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshTzsche&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshTzsche&layout=compact&theme=graywhite&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
----
 
 ### 🧭 Navegación
 
