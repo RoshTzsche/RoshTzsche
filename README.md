@@ -11,16 +11,17 @@
 </div>
 
 ### 📜 Bio
-Ingeniero Biomédico y entusiasta del Open Source desde **México 🇲🇽**. Me especializo en la intersección entre la biología computacional y la optimización de sistemas. Mi enfoque combina la precisión matemática de la metagenómica con la estética funcional del *ricing* en Linux.
+Estudiante de Ingenieria Biomédica en la UDLAP y entusiasta del Open Source desde **México 🇲🇽**. 
+Me encanta la computación, la optimización de sistemas y el *ricing* de Linux.
 
 * 🏆 **Logro desbloqueado:** 2º Lugar Nacional en IA - *Swift Social Change Makers Enactus 2025*.
 * 🔭 **Investigación:** Metagenómica y análisis de datos biológicos.
-* 🐧 **OS Diario:** CachyOS + Hyprland (La eficiencia es innegociable).
+* 🐧 **OS:** CachyOS + Hyprland.
 * 🎂 **Level Up:** 14 de Febrero.
 
 ---
 
-### 🛠️ Arsenal Técnico
+### 🛠️ Lenguajes
 
 Mis lenguajes principales son **Python** (Ciencia de Datos/Bio) y **Bash** (Automatización del Sistema). También desarrollo en Swift y Web stack.
 
@@ -54,7 +55,7 @@ Mis lenguajes principales son **Python** (Ciencia de Datos/Bio) y **Bash** (Auto
 
 ### 🧭 Navegación
 
-* **[dotfiles](https://github.com/RoshTzsche/dotfiles):** El núcleo de mi entorno. Configuración de Hyprland, Waybar (módulos Python custom), y Neovim para flujos de trabajo científicos.
+* **[dotfiles](https://github.com/RoshTzsche/dotfiles):** Mi ricing. Configuración de Hyprland, Waybar (módulos Python custom), y Neovim para flujos de trabajo científicos.
 * En construcción:**[garden](https://github.com/RoshTzsche/notes):** *(WIP)* Mi cerebro digital. Notas sobre biomedicina, matemáticas y filosofía hosteadas con **Quartz 4.0**.
 
 <div align="center">
