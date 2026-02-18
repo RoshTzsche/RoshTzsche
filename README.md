@@ -2,7 +2,7 @@
 
 # 🧬 R O S H T Z S C H E
 
-> *"Civiliza la mente, pero haz salvaje al cuerpo"*
+> *"Civilize the mind, but make savage the body"*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;National+AI+Winner+'25+(Enactus);Metagenomics+Researcher;STEM+Rep+@+UDLAP;Linux+Ricing+Enthusiast)](https://git.io/typing-svg)
 
@@ -11,23 +11,24 @@
 </div>
 
 ### 📜 Bio
-Estudiante de Ingenieria Biomédica en la UDLAP y entusiasta del Open Source desde **México 🇲🇽**. 
-Me encanta la computación, la optimización de sistemas y el *ricing* de Linux.
+Biomedical Engineering student at UDLAP and Open Source enthusiast from **Mexico 🇲🇽**.
+I love math, data science, chemistry, chess, and Linux *ricing*.
 
-* 🏆 **Logro desbloqueado:** 2º Lugar Nacional en IA - *Swift Social Change Makers Enactus 2025*.
-* 🔭 **Investigación:** Metagenómica y análisis de datos biológicos.
+* 🏆 2nd Place National AI - *Swift Social Change Makers Enactus 2025*.
+* 🏆 3rd Place National Chemistry Olympiad 2021.
+* 🔭 **Research:** Metagenomics and biological data analysis.
 * 🐧 **OS:** CachyOS + Hyprland.
-* 🎂 **Level Up:** 14 de Febrero.
-
+* 🎂 **My birthday:** February 14th.
+* ♟️ **Let's play some chess:** [My profile](https://www.chess.com/member/ugapor)
 ---
 
-### 🛠️ Lenguajes
+### 🛠️ Languages
 
-Mis lenguajes principales son **Python** (Ciencia de Datos/Bio) y **Bash** (Automatización del Sistema). También desarrollo en Swift y Web stack.
+My main languages are **Python** (Data Science/Bio) and **Bash** (System Automation). I also develop in Swift and the Web stack.
 
 <div align="center">
 
-| Core & Bio | Ricing & Sistema | Web & Mobile |
+| Core & Bio | Ricing & System | Web & Mobile |
 | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Hyprland](https://img.shields.io/badge/Hyprland-004E64?style=for-the-badge&logo=archlinux&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
@@ -37,11 +38,10 @@ Mis lenguajes principales son **Python** (Ciencia de Datos/Bio) y **Bash** (Auto
 
 ---
 
-### 🧭 Navegación
+### 🧭 Navigation
 
-* **[dotfiles](https://github.com/RoshTzsche/dotfiles):** Mi ricing. Configuración de Hyprland, Waybar (módulos Python custom), y Neovim para flujos de trabajo científicos.
-* En construcción:**[garden](https://github.com/RoshTzsche/notes):** *(WIP)* Mi cerebro digital. Notas sobre biomedicina, matemáticas y filosofía hosteadas con **Quartz 4.0**.
+* **[dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
 
 <div align="center">
-  <sub>"Civiliza la mente" • <a href="https://udlap.mx">UDLAP</a> • Configurado con <a href="https://github.com/folke/lazy.nvim">Lazy.nvim</a></sub>
+  <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a> • Configured with <a href="https://github.com/folke/lazy.nvim">Lazy.nvim</a></sub>
 </div>
