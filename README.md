@@ -4,7 +4,7 @@
 
 > *"Civilize the mind, but make savage the body"*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;National+AI+Winner+'25+(Enactus);Metagenomics+Researcher;STEM+Rep+@+UDLAP;Linux+Ricing+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;National+AI+Winner+'25+(Enactus);Metagenomics+Researcher;STEM+Rep+@+UDLAP;Linux+Ricing+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -40,8 +40,8 @@ My main languages are **Python** (Data Science/Bio) and **Bash** (System Automat
 
 ### 🧭 Navigation
 
-* **[dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
-
+* **[My dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
+* **[My work](https://github.com/RoshTzsche/biomedical_showcase)**
 <div align="center">
-  <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a> • Configured with <a href="https://github.com/folke/lazy.nvim">Lazy.nvim</a></sub>
+  <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a>
 </div>
