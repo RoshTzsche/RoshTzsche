@@ -39,9 +39,9 @@ My main languages are **Python** (Data Science/Bio) and **Bash** (System Automat
 ---
 
 ### 🧭 Navigation
-
+* **[My work](https://github.com/RoshTzsche/biomedical_showcase)** My *Biomedical Engineering* research, applying what i've learned.
 * **[My dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
-* **[My work](https://github.com/RoshTzsche/biomedical_showcase)**
+
 <div align="center">
   <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a>
 </div>
