@@ -20,7 +20,7 @@ I love math, data science, chemistry, chess, and Linux *ricing*.
 * 💻 **Multiple hackathons**: 4x from the UDLAP, 2x NASA Space App Challenge, 1x ENACTUS.
 * 🧠 **Lectures & Workshops:** Passionate about science outreach, including *Noche de las Estrellas* (2024 & 2025) and imparted UDLAP workshops (Coding, UI/UX, Machine Learning)
 * 🐧 **OS:** CachyOS + Hyprland.
-* 🎂 **My birthday:** February 14th.
+* 🎂 **My birthday:** February 14th. (20 years old)
 * ♟️ **Let's play some chess:** [My profile](https://www.chess.com/member/ugapor)
 ---
 
