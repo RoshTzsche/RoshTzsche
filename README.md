@@ -15,7 +15,7 @@ Biomedical Engineering student at UDLAP and Open Source enthusiast from **Mexico
 I love math, data science, chemistry, chess, and Linux *ricing*.
 
 * 🏆 **2nd Place National AI** - *Swift Social Change Makers Enactus 2025*.
-* 🏆 **3rd Place National** - *XXXI Chemistry National Olympiad 2021.*
+* 🏆 **National Bronze Medal** - *XXXI Chemistry National Olympiad 2021.*
 * 🔭 **Research:** Metagenomics and biological data analysis.
 * 🐧 **OS:** CachyOS + Hyprland.
 * 🎂 **My birthday:** February 14th.
