@@ -46,5 +46,5 @@ My main languages are **Python** (Data Science/Bio) and **Bash** (System Automat
 * **[My dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
 
 <div align="center">
-  <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a>
+  <sub>"Civilize the mind" • <a href="https://udlap.mx">UDLAP</a> • Get in contact: "roshguadiana@gmail.com" 
 </div>
