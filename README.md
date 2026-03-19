@@ -21,7 +21,7 @@ I love math, data science, chemistry, chess, and Linux *ricing*.
 * 🧠 **Lectures & Workshops:** Passionate about science outreach, including *Noche de las Estrellas* (2024 & 2025) and imparted UDLAP workshops (Coding, UI/UX, Machine Learning)
 * 🎙️ **STEMPIRE Podcast:** I host conversations with experts across various STEM fields. Check out our episodes on [YouTube](https://youtube.com/@stemudlap?si=STuvMWu0luTlpkDl).
 * 🐧 **OS:** CachyOS + Hyprland.
-* 🎂 **My birthday:** February 14th. (20 years old)](https://youtube.com/@stemudlap?si=STuvMWu0luTlpkDl)
+* 🎂 **My birthday:** February 14th. (20 years old)
 * ♟️ **Let's play some chess:** [My profile](https://www.chess.com/member/ugapor)
 ---
 
