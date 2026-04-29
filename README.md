@@ -17,7 +17,7 @@ I love math, data science, chemistry, chess, and Linux *ricing*.
 * 🏆 **2nd Place National AI** - *Swift Social Change Makers Enactus 2025*.
 * 🥉 **National Bronze Medal** - *XXXI Chemistry National Olympiad 2021.*
 * 🔭 **Research:** Metagenomics, AI, math and biological data analysis.
-* 💻 **Multiple hackathons**: 4x from the UDLAP, 2x NASA Space App Challenge, 1x ENACTUS.
+* 💻 **Multiple hackathons**: 4x from the UDLAP, 2x NASA Space App Challenge, 1x ENACTUS, 1x MexicanGov.
 * 🧠 **Lectures & Workshops:** Passionate about science outreach, including *Noche de las Estrellas* (2024 & 2025) and imparted UDLAP workshops (Coding, UI/UX, Machine Learning)
 * 🎙️ **STEMPIRE Podcast:** I host conversations with experts across various STEM fields. Check out our episodes on [YouTube](https://youtube.com/@stemudlap?si=STuvMWu0luTlpkDl).
 * 🐧 **OS:** CachyOS + Hyprland.
