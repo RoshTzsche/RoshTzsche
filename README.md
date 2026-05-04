@@ -27,7 +27,7 @@ I love math, data science, chemistry, chess, and Linux *ricing*.
 
 ### 🛠️ Languages
 
-My main languages are **Python** (Data Science/Bio) and **Bash** (System Automation). I also develop in Swift and the Web stack.
+My main languages are **Python** (Data Science/Bio) and **Bash** (System Automation). I also develop in Swift and the Web stack. Currently doing electronics projects on **C**.
 
 <div align="center">
 
