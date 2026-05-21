@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 R O S H T Z S C H E
+# R O S H T Z S C H E
 
 > *"Civilize the mind, but make savage the body"*
 
@@ -10,22 +10,22 @@
 
 </div>
 
-### 📜 Bio
+###  Bio
 Biomedical Engineering student at UDLAP (4th semester) and Open Source enthusiast from **Mexico 🇲🇽**.
 I love math, data science, chemistry, chess, and Linux *ricing*.
 
-* 🏆 **2nd Place National AI** - *Swift Social Change Makers Enactus 2025*.
-* 🥉 **National Bronze Medal** - *XXXI Chemistry National Olympiad 2021.*
-* 🔭 **Research:** Metagenomics, AI, math and biological data analysis.
-* 💻 **Multiple hackathons**: 4x from the UDLAP, 2x NASA Space App Challenge, 1x ENACTUS, 1x MexicanGov.
-* 🧠 **Lectures & Workshops:** Passionate about science outreach, including *Noche de las Estrellas* (2024 & 2025) and imparted UDLAP workshops (Coding, UI/UX, Machine Learning)
-* 🎙️ **STEMPIRE Podcast:** I host conversations with experts across various STEM fields. Check out our episodes on [YouTube](https://youtube.com/@stemudlap?si=STuvMWu0luTlpkDl).
-* 🐧 **OS:** CachyOS + Hyprland.
-* 🎂 **My birthday:** February 14th. (20 years old)
-* ♟️ **Let's play some chess:** [My profile](https://www.chess.com/member/ugapor)
+*  **2nd Place National AI** - *Swift Social Change Makers Enactus 2025*.
+*  **National Bronze Medal** - *XXXI Chemistry National Olympiad 2021.*
+*  **Research:** Metagenomics, AI, math and biological data analysis.
+*  **Multiple hackathons**: 4x from the UDLAP, 2x NASA Space App Challenge, 1x ENACTUS, 1x MexicanGov.
+*  **Lectures & Workshops:** Passionate about science outreach, including *Noche de las Estrellas* (2024 & 2025) and imparted UDLAP workshops (Coding, UI/UX, Machine Learning)
+*  **STEMPIRE Podcast:** I host conversations with experts across various STEM fields. Check out our episodes on [YouTube](https://youtube.com/@stemudlap?si=STuvMWu0luTlpkDl).
+*  **OS:** CachyOS + Hyprland.
+*  **My birthday:** February 14th. (20 years old)
+*  **Let's play some chess:** [My profile](https://www.chess.com/member/ugapor)
 ---
 
-### 🛠️ Languages
+###  Languages
 
 My main languages are **Python** (Data Science/Bio) and **Bash** (System Automation). I also develop in Swift and the Web stack. Currently doing electronics projects on **C**.
 
@@ -41,7 +41,7 @@ My main languages are **Python** (Data Science/Bio) and **Bash** (System Automat
 
 ---
 
-### 🧭 Navigation
+###  Navigation
 * **[My work](https://github.com/RoshTzsche/biomedical_showcase)** My *Biomedical Engineering* research, applying what i've learned.
 * **[My dotfiles](https://github.com/RoshTzsche/dotfiles):** My ricing. Hyprland configuration, Waybar (custom Python modules), and Neovim for scientific workflows.
 
