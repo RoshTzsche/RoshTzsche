@@ -11,7 +11,7 @@
 </div>
 
 ###  Bio
-Biomedical Engineering student at UDLAP (4th semester) and Open Source enthusiast from **Mexico 🇲🇽**.
+Biomedical Engineering student at UDLAP and Open Source enthusiast from **Mexico 🇲🇽**.
 I love math, data science, chemistry, chess, and Linux *ricing*.
 
 *  **2nd Place National AI** - *Swift Social Change Makers Enactus 2025*.
