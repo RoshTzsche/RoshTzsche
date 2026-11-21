@@ -10,11 +10,6 @@
 <br>
 
 <a href="https://roshtzsche.github.io"><img src="https://img.shields.io/badge/visit-roshtzsche.github.io-b48ead?style=for-the-badge&labelColor=0e0f13" alt="Visit roshtzsche.github.io"></a>
-
-<sub>Terminal and paper modes (press <kbd>D</kbd>) · Spanish and English · an interactive attractor lab · chess · notes</sub>
-
-> *"Civilize the mind, but make savage the body"*
-
 </div>
 
 ---
