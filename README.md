@@ -9,9 +9,9 @@
 
 <br>
 
-<a href="https://roshtzsche.github.io"><img src="https://img.shields.io/badge/❯_roshtzsche.github.io-enter_the_site-b48ead?style=for-the-badge&labelColor=0e0f13" alt="Visit roshtzsche.github.io"></a>
+<a href="https://roshtzsche.github.io"><img src="https://img.shields.io/badge/visit-roshtzsche.github.io-b48ead?style=for-the-badge&labelColor=0e0f13" alt="Visit roshtzsche.github.io"></a>
 
-<sub><b>terminal ⇄ paper</b> modes (press <kbd>D</kbd>) · español / English · interactive attractor lab · chess · notes</sub>
+<sub>Terminal and paper modes (press <kbd>D</kbd>) · Spanish and English · an interactive attractor lab · chess · notes</sub>
 
 > *"Civilize the mind, but make savage the body"*
 
@@ -19,23 +19,23 @@
 
 ---
 
-### `~ ❯ whoami`
+## About
 
-Biomedical Engineering student at **UDLAP** (Honors Program), from Durango, studying in Puebla, Mexico 🇲🇽.
+Biomedical Engineering student at **UDLAP** (Honors Program), from Durango, studying in Puebla, Mexico.
 I work where **nonlinear dynamics, brain signals and AI** meet, and I like building the hardware and the apps around them.
 Member of the **UDLAP STEM representative team**. Also: math olympiads, chess, and Linux *ricing*.
 
-### `~ ❯ cat highlights.txt`
+## Highlights
 
 | | |
 | :-- | :-- |
-| ★ **Greatest Technological Innovation**, NASA Space Apps Puebla 2026 | [MarsWalker](https://github.com/RoshTzsche/mars_walker) |
-| ★ **2nd place**, Hackatón Puebla 2026 | [Gota Poblana](https://github.com/RoshTzsche/gota_poblana) |
-| ★ **2nd place national**, Swift Social Change Makers · Enactus 2025 | [Ojo de Halcón](https://github.com/RoshTzsche/ojo_de_halcon) |
-| 🎙 **Talk**: *The shape of consciousness*, Takens' theorem on neural dynamics (MUTVI 4) | [watch](https://www.youtube.com/watch?v=H2ynSl1nyjo) |
-| ∑ **Putnam 2026** UDLAP representative · OMUM 2026 · national bronze, XXXI Chemistry Olympiad | |
+| **Greatest Technological Innovation**, NASA Space Apps Puebla 2026 | [MarsWalker](https://github.com/RoshTzsche/mars_walker) |
+| **2nd place**, Hackatón Puebla 2026 | [Gota Poblana](https://github.com/RoshTzsche/gota_poblana) |
+| **2nd place national**, Swift Social Change Makers · Enactus 2025 | [Ojo de Halcón](https://github.com/RoshTzsche/ojo_de_halcon) |
+| **Talk** at MUTVI 4: *The shape of consciousness*, Takens' theorem on neural dynamics | [watch](https://www.youtube.com/watch?v=H2ynSl1nyjo) |
+| **Putnam 2026** UDLAP representative · OMUM 2026 · national bronze, XXXI Chemistry Olympiad | |
 
-### `~ ❯ ls projects/ --featured`
+## Selected projects
 
 <table>
 <tr>
@@ -67,9 +67,9 @@ Member of the **UDLAP STEM representative team**. Also: math olympiads, chess, a
 | [`logic_lectures`](https://github.com/RoshTzsche/logic_lectures) | Logic, sets and Gödel: 7 lectures I gave to classmates |
 | [`dotfiles`](https://github.com/RoshTzsche/dotfiles) | CachyOS + Hyprland (Lua config), Waybar, Neovim for science |
 
-<p align="center"><sub>Every project with its story, images and context → <a href="https://roshtzsche.github.io/en/#projects"><b>roshtzsche.github.io</b></a></sub></p>
+<p align="center"><sub>Every project with its story, images and context at <a href="https://roshtzsche.github.io/en/#projects"><b>roshtzsche.github.io</b></a></sub></p>
 
-### `~ ❯ stack`
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-0e0f13?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-0e0f13?style=flat-square&logo=swift&logoColor=white)
@@ -83,20 +83,20 @@ Member of the **UDLAP STEM representative team**. Also: math olympiads, chess, a
 ![Hyprland](https://img.shields.io/badge/Hyprland-0e0f13?style=flat-square&logo=hyprland&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-0e0f13?style=flat-square&logo=neovim&logoColor=white)
 
-### `~ ❯ links`
+## Elsewhere
 
-[🌐 site](https://roshtzsche.github.io) ·
-[🧪 attractor lab](https://roshtzsche.github.io/en/lab/) ·
-[✍ writing](https://roshtzsche.github.io/en/writing/) ·
-[♞ play chess with me](https://roshtzsche.github.io/en/chess/) ·
-[🎙 STEMpire podcast](https://youtube.com/@stemudlap) (occasional co-host) ·
+[Website](https://roshtzsche.github.io) ·
+[Attractor lab](https://roshtzsche.github.io/en/lab/) ·
+[Writing](https://roshtzsche.github.io/en/writing/) ·
+[Play chess with me](https://roshtzsche.github.io/en/chess/) ·
+[STEMpire podcast](https://youtube.com/@stemudlap) (occasional co-host) ·
 [LinkedIn](https://www.linkedin.com/in/rosh-guadiana) ·
 [ORCID](https://orcid.org/0009-0007-0324-3939) ·
-[📄 CV](https://roshtzsche.github.io/cv.pdf)
+[CV](https://roshtzsche.github.io/cv.pdf)
 
 <div align="center">
 <br>
-<a href="https://roshtzsche.github.io"><img src="https://img.shields.io/badge/the_rest_lives_here_→-roshtzsche.github.io-0e0f13?style=flat-square&labelColor=b48ead" alt="roshtzsche.github.io"></a>
+<a href="https://roshtzsche.github.io"><b>roshtzsche.github.io</b></a>
 <br><br>
 <sub>roshguadiana@gmail.com · UDLAP · Puebla, MX</sub>
 </div>
