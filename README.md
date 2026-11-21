@@ -94,4 +94,12 @@ Member of the **UDLAP STEM representative team**. Also: math olympiads, chess, a
 <a href="https://roshtzsche.github.io"><b>roshtzsche.github.io</b></a>
 <br><br>
 <sub>roshguadiana@gmail.com · UDLAP · Puebla, MX</sub>
+<br><br>
+<details>
+<summary><sub><code>cat .secret</code></sub></summary>
+<br>
+<img src="assets/.cat.webp" width="120" alt="a very small cat">
+<br>
+<sub>you found the cat. now go see the <a href="https://roshtzsche.github.io">rest</a>.</sub>
+</details>
 </div>
