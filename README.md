@@ -13,8 +13,8 @@
 </div>
 
 ---
-
-Biomedical Engineering student at **UDLAP**, from Durango, Mexico.
+Holaa, Hello!
+I'm a Biomedical Engineering student at **UDLAP**, born in Durango, Mexico. (El mejor estado de MEX)
 I like math, brain signals, chemistry, chess and Linux *ricing*.
 
 * **Born on** February 14th.
