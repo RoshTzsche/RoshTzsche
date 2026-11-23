@@ -32,37 +32,66 @@ Member of the **UDLAP STEM representative team**. Also: math olympiads, chess, a
 
 ## Selected projects
 
+### [MarsWalker](https://github.com/RoshTzsche/mars_walker)
+**Greatest Technological Innovation** · NASA Space Apps Challenge, Puebla 2026
+
+<a href="https://github.com/RoshTzsche/mars_walker"><img src="assets/mars_walker.webp" width="100%" alt="MarsWalker: 3D route planning in Jezero Crater"></a>
+
+Walking on Mars before going there. A browser 3D simulator of crewed missions in **Jezero Crater**, built on real **HiRISE** elevation data.
+It plans routes from terrain slope, suit oxygen use and crew physiology, so a mission team can compare paths before anyone sets foot on them.
+
+<br>
+
+### [Gota Poblana](https://github.com/RoshTzsche/gota_poblana)
+**2nd place** · Hackatón Puebla 2026
+
+<a href="https://github.com/RoshTzsche/gota_poblana"><img src="assets/gota_01-portada.webp" width="100%" alt="Gota Poblana"></a>
+
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/RoshTzsche/mars_walker"><img src="https://roshtzsche.github.io/projects/mars_walker.webp" alt="MarsWalker"></a>
-<b><a href="https://github.com/RoshTzsche/mars_walker">MarsWalker</a></b><br>
-<sub>Walking on Mars before going there. A 3D simulator of crewed routes in Jezero Crater, built on HiRISE elevation data.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/RoshTzsche/gota_poblana"><img src="https://roshtzsche.github.io/projects/gota_poblana.webp" alt="Gota Poblana"></a>
-<b><a href="https://github.com/RoshTzsche/gota_poblana">Gota Poblana</a></b><br>
-<sub>Safer water, one drop of acid at a time. ESP32-S3 adaptive pH control for chlorination, with a Flutter app over MQTT.</sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/RoshTzsche/fruticebada"><img src="https://roshtzsche.github.io/projects/fruticebada.webp" alt="Fruticebada"></a>
-<b><a href="https://github.com/RoshTzsche/fruticebada">Fruticebada</a></b><br>
-<sub>Predicting the harvest from space. Barley yield from satellite and climate data, with a SHAP map (<a href="https://frutiloopsfira.onrender.com">live demo</a>).</sub>
+<td width="62%"><img src="assets/gota_02-app.webp" width="100%" alt="Gota Poblana Flutter app"></td>
+<td width="38%"><img src="assets/gota_03-hardware.webp" width="100%" alt="Gota Poblana ESP32-S3 hardware"></td>
+</tr>
+</table>
+
+Safer water, one drop of acid at a time. An **ESP32-S3** controls pH for water chlorination: temperature-compensated sensing, a dose size it learns from each previous dose, and a **Flutter** app over **MQTT** to watch it live.
+
+<br>
+
+### [MOVA](https://github.com/RoshTzsche/mova)
+**Competed at Sillódromo 2026** · INAOE
+
+<table>
+<tr>
+<td width="46%" valign="top"><a href="https://github.com/RoshTzsche/mova"><img src="assets/mova.gif" width="100%" alt="MOVA: a wheelchair driven by facial gestures, running at Sillódromo 2026"></a></td>
+<td width="54%" valign="top">
+
+Driving a wheelchair with your face.
+
+**MediaPipe** landmarks and head pose become movement commands sent to the chair over USB serial.
+Each user gets their own calibration, and a short temporal confirmation filters out accidental moves, so a glance to the side doesn't turn the chair.
+
+<sub>The clip: MOVA on the course at Sillódromo 2026 (2.5× speed).</sub>
+
 </td>
 </tr>
 </table>
 
+<br>
+
+### More projects
+
 | | |
 | :-- | :-- |
-| [`eeg_phase_space`](https://github.com/RoshTzsche/eeg_phase_space) | Seeing the hidden geometry of a brain signal: delay embedding, AMI and FNN |
-| [`mova`](https://github.com/RoshTzsche/mova) | Driving a wheelchair with your face (MediaPipe → serial) |
-| [`ojo_de_halcon`](https://github.com/RoshTzsche/ojo_de_halcon) | Real-time football tactics in SwiftUI |
-| [`ct_neuro_viewer`](https://github.com/RoshTzsche/ct_neuro_viewer) | DICOM → Hounsfield volumes, orthogonal views and MIP |
-| [`metagenomics_kraken`](https://github.com/RoshTzsche/metagenomics_kraken) | What a crayfish eats, read from DNA |
+| [`fruticebada`](https://github.com/RoshTzsche/fruticebada) | Predicting barley harvest from satellite and climate data, with a SHAP map · [live demo](https://frutiloopsfira.onrender.com) |
+| [`ojo_de_halcon`](https://github.com/RoshTzsche/ojo_de_halcon) | Real-time football tactics in SwiftUI · 2nd place national, Enactus 2025 |
+| [`eeg_phase_space`](https://github.com/RoshTzsche/eeg_phase_space) | The hidden geometry of a brain signal: delay embedding, AMI and FNN |
+| [`ct_neuro_viewer`](https://github.com/RoshTzsche/ct_neuro_viewer) | DICOM to Hounsfield volumes, orthogonal views and MIP |
+| [`metagenomics_kraken`](https://github.com/RoshTzsche/metagenomics_kraken) | What a crayfish eats, read from its DNA |
 | [`logic_lectures`](https://github.com/RoshTzsche/logic_lectures) | Logic, sets and Gödel: 7 lectures I gave to classmates |
 | [`dotfiles`](https://github.com/RoshTzsche/dotfiles) | CachyOS + Hyprland (Lua config), Waybar, Neovim for science |
 
-<p align="center"><sub>Every project with its story, images and context at <a href="https://roshtzsche.github.io/en/#projects"><b>roshtzsche.github.io</b></a></sub></p>
+<p align="center"><sub>Every project with its full story at <a href="https://roshtzsche.github.io/en/#projects"><b>roshtzsche.github.io</b></a></sub></p>
 
 ## Stack
 
