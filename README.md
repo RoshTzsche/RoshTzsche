@@ -14,7 +14,7 @@
 
 ---
 Holaa, Hello!
-I'm a Biomedical Engineering student at **UDLAP**, born in Durango, Mexico. (El mejor estado de MEX)
+I'm a Biomedical Engineering student at **UDLAP**, born in Durango, Mexico 🇲🇽.
 I like math, brain signals, chemistry, chess and Linux *ricing*.
 
 * **Born on** February 14th.
@@ -23,7 +23,7 @@ I like math, brain signals, chemistry, chess and Linux *ricing*.
 * **Built** a wheelchair you drive with your face ([MOVA](https://github.com/RoshTzsche/mova)).
 * **Occasional co-host** of the STEMpire podcast on [YouTube](https://youtube.com/@stemudlap).
 * **OS:** CachyOS + Hyprland, configured in Lua ([dotfiles](https://github.com/RoshTzsche/dotfiles)).
-* **Let's play some chess:** [chess.com](https://www.chess.com/member/ugapor) · [lichess](https://lichess.org/@/DracoKerouac)
+* ♟️ **Let's play some chess:** [chess.com](https://www.chess.com/member/ugapor) · [lichess](https://lichess.org/@/DracoKerouac)
 
 <div align="center">
 <br>
